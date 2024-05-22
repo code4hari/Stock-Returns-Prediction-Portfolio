@@ -9,6 +9,8 @@ Yet, the true litmus test lies in the backtesting phase, where the constructed p
 
 In essence, this project serves as a testament to the intersection of data science and finance, offering a comprehensive pipeline for stock return prediction and portfolio optimization. It underscores the potential of machine learning in empowering informed decision-making in the complex landscape of financial markets, ultimately fostering more resilient and adaptive investment strategies.
 
+implement any stock models. S&P 500 stock were used for testing.
+
 
 
 
